@@ -1,4 +1,4 @@
-User Management Application
+#User Management Application
 The User Management Application is a desktop application with a three-tier architecture, written in OOP in Python, and deployed on SQLite. This application has features such as registration, login, search, changing user status and roles, pagination, etc.
 
 Architecture: 3-tier architecture
