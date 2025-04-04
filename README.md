@@ -43,5 +43,5 @@ Admin User can :
 ## Register 
 New users can register by First name, Last name, Username and Password
 
-![4](https://github.com/arefvafaei/Image/blob/main/User-Management-Application/new_user.pngg)
+![4](https://github.com/arefvafaei/Image/blob/main/User-Management-Application/new_user.png)
 
